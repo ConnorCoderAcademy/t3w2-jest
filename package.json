@@ -1,0 +1,14 @@
+{
+  "name": "t3w2-jest",
+  "version": "1.0.0",
+  "description": "A little project to practice with Jest",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
